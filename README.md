@@ -1,6 +1,6 @@
 # 影视~仓库
 
-- [**影视简介**](#影视仓库简介)
+- [**影视简介**](#影视仓库简介)建议保存为书签，方便使用。
 
 # **影视网站**
   - [海外剧场](#海外剧场)
@@ -13,19 +13,19 @@
 
 
 # **影视简介**
-主要以分享影视网址为主，方便各位观看。
+主要以分享影视网址为主，方便各位观看。如有需要，可在公众号（水元）留言。
 
 ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.12.02-brightgreen?style=for-the-badge)
 
 ---
 
 ## **海外剧场**
+[厂长资源](https://www.czspp.com/)
+[低端影视](https://ddys.tv/)
 [HDmoli](https://hdmoli.com/) 
 [剧荒TV](https://www.juhuang.tv/)
 [在线之家](https://zxzj.vip/)
 [哔嘀影视](https://www.bdys01.com/)
-[低端影视](https://ddys.tv/)
-[厂长资源](https://www.czspp.com/)
 [LIBVIO在线](https://www.libvio.me/)
 [大米星球](https://www.dmxq.fun/)
 [饭团HD](https://www.fantuanhd.com/)
