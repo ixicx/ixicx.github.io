@@ -127,10 +127,11 @@
 ---
 
 ## **m3u8在线播放**
-[m3u8]（http://hunlongyu.gitee.io/zy-player-web/）
+[m3u8]([https://www.nmme.cc/](http://hunlongyu.gitee.io/zy-player-web/))
+
 
 ## 鸣谢
 
-感谢  [google](https://google.com/) 提供搜索服务！
+由 [google](https://google.com/) 提供搜索服务！
 
 
