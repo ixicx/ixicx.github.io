@@ -24,7 +24,7 @@
 > 
 > 不想安装多余的 APP 让手机臃肿，还有安全隐患。
 > 
-> 于是将最好用，最优质的电影网站从垃圾堆里过滤出来，收集整理 在这里分享！！！
+> 于是将好用、优质的电影网站从垃圾堆里过滤出来，收集整理 在这里分享！！！
 > 
 > 
 
@@ -35,12 +35,12 @@
 ## **海外剧场**
 [厂长资源](https://www.czspp.com/)
 [低端影视](https://ddys.tv/)
+[大米星球](https://www.dmxq.fun/)
 [HDmoli](https://hdmoli.com/) 
 [剧荒TV](https://www.juhuang.tv/)
 [在线之家](https://zxzj.vip/)
 [哔嘀影视](https://www.bdys01.com/)
 [LIBVIO在线](https://www.libvio.me/)
-[大米星球](https://www.dmxq.fun/)
 [饭团HD](https://www.fantuanhd.com/)
 [努努影院](https://www.nunuyy3.org/)
 [蛋蛋赞影院](https://www.dandanzan10.top/)
