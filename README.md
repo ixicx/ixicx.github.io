@@ -1,9 +1,8 @@
 # 影视~仓库
 
-- [目录](#目录)
 - [**影视简介**](#影视仓库简介)
 
-# **影视源**
+# **影视网站**
   - [海外剧场](#海外剧场)
   - [国产剧场](#国产剧场)
   - [动漫剧场](#动漫剧场)
@@ -22,7 +21,7 @@
 
 ## **海外剧场**
 [HDmoli](https://hdmoli.com/) 
-[剧荒TV](https://www.juhuang.tv/ )
+[剧荒TV](https://www.juhuang.tv/)
 [在线之家](https://zxzj.vip/)
 [哔嘀影视](https://www.bdys01.com/)
 [低端影视](https://ddys.tv/)
