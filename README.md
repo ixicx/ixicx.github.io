@@ -3,7 +3,7 @@
 - [目录](#目录)
 - [**影视简介**](#影视仓库简介)
 
-- [**影视源**](#影视源)
+# **影视源**
   - [海外剧场](#海外剧场)
   - [国产剧场](#国产剧场)
   - [动漫剧场](#动漫剧场)
@@ -49,7 +49,7 @@
 [TheFree](https://www.thefree.vip/)
 [片库](https://www.btnull.nu/)
 [大师兄影视](https://dsxys.pro/)
-[蓝光影院](https://www.lgyy.cc/))
+[蓝光影院](https://www.lgyy.cc/)
 [vofilix HD](https://www.voflix.com/)
 
 ---
