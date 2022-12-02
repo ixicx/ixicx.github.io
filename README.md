@@ -104,7 +104,6 @@
 
 ## **解析接口**
 [热播之家](https://rebozj.com/)
-[思古解析](https://jsap.attakids.com/?url=)
 [OK解析](https://okjx.cc/?url=)
 [虾米解析](https://jx.xmflv.com/?url=)
 [BL解析](https://vip.bljiex.com/?v=)
