@@ -26,11 +26,12 @@
 > 于是将好用、优质的电影网站从垃圾堆里过滤出来，收集整理 在这里分享！！！
 > 
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.12.02-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.12.04-brightgreen?style=for-the-badge)
 
 ---
 
 ## **海外剧场**
+[独播库](https://www.duboku.tv)
 [厂长资源](https://www.czspp.com/)
 [低端影视](https://ddys.tv/)
 [大米星球](https://www.dmxq.fun/)
