@@ -31,7 +31,7 @@
 ---
 
 ## **海外剧场**
-[独播库](https://www.duboku.tv)
+[独播库](https://www.duboku.tv/)
 [厂长资源](https://www.czspp.com/)
 [低端影视](https://ddys.tv/)
 [大米星球](https://www.dmxq.fun/)
@@ -78,7 +78,6 @@
 ---
 
 ## **纪录片**
-[哔哩哔哩](https://space.bilibili.com/22121599/video)
 [央视纪实](http://jishi.cctv.com/)
 [腾讯纪录片](https://v.qq.com/channel/doco)
 [优酷纪录片](https://jilupian.youku.com/)
@@ -112,11 +111,11 @@
 ---
 
 ## **影视搜索**
+[土拨鼠电影](https://www.tbsdy.com/)
 [影猫搜索](https://search.ymck.me/)
 [茶杯狐](https://cupfox.app/)
 [电影狗](https://www.dianyinggou.com/)
 [豌豆影视](https://www.wandou.pro/)
-[土拨鼠电影](https://www.tbsdy.com/)
 [磁力狗](http://clg00.site/)
 [磁力猫](https://clm8.in/)
 [盘搜搜](https://www.pansoso.com/)
