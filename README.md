@@ -1,6 +1,6 @@
-# 影视~仓库
+# IXIC~小站
 
-- [**资源网大全**](#资源网大全)  建议保存为书签，方便使用。
+- [**资源网**](#资源网)  建议保存为书签，方便使用。
 
 # **影视网站**
   - [海外剧场](#海外剧场)
@@ -12,7 +12,7 @@
   - [影视搜索](#影视搜索)
   - [m3u8在线播放](#m3u8在线播放)
 
-# **影视仓库简介**
+# **简介**
 这是一个电影网站目录！主要以分享影视网址为主，为看电影变得简单！
 > 
 > 相信你遇到过开通 VIP 还需要 付费点播，热门英美剧、韩剧等国外优质电影无法在国内平台播放的情况。
@@ -26,20 +26,20 @@
 > 于是将好用、优质的电影网站从垃圾堆里过滤出来，收集整理 在这里分享！！！
 > 
 
-![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2022.12.14-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2023.03.30-brightgreen?style=for-the-badge)
 
 ---
 
-## **资源网大全**
+## **资源网**
 
-[优质资源](http://1080zyk.com/)
+- [优质资源](http://1080zyk.com/)
 [闪电资源](http://shandianzy.com/)
 [6_U 资源](http://www.6uzy.cc/)
 [U 酷资源](http://ukuzy5.com/)
 [快车资源](http://kuaichezy.com/)
 [星海资源](http://xhzy01.com/)
 [百度资源](http://bdyunzy.com/)
-[量子资源](http://lzizy.net/)
+- [量子资源](http://lzizy.net/)
 [金鹰资源](http://jinyingzy.net/)
 [阳光资源](https://www.xxzy.org/)
 [麒麟资源](http://www.qilinzyz.com/)
@@ -47,14 +47,14 @@
 [酷点资源](http://kudianzy.com/)
 [天堂资源](http://vipmv.cc/)
 [非凡资源](http://ffzy1.tv/)
-[无尽资源](http://wujinzy.com/)
+- [无尽资源](http://wujinzy.com/)
 [鱼乐资源](http://www.ylzy1.com/)
 [C_K 资源](http://ckzy1.com/)
 [天空资源](http://tkzy1.com/)
 [红牛资源](https://hongniuzy.net/)
 [新浪资源](http://xinlangzy.com/)
 [海外资源](https://haiwaikan.com/)
-[淘片资源](http://taopianzy.com/)
+- [淘片资源](http://taopianzy.com/)
 [速更资源](http://sugengzy.cn/)
 [飞速资源](http://feisuzy.com/)
 
