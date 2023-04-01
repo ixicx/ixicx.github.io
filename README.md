@@ -1,6 +1,6 @@
 # IXIC~小站
 
-- [**资源网**](#资源网)  建议保存为书签，方便使用。
+- [**资源站**](#资源站) 建议保存本页为书签，方便使用。[IXIC](https://ixic.montaigne.io)
 
 # **影视站**
   - [海外剧场](#海外剧场)
@@ -30,7 +30,7 @@
 
 ---
 
-## **资源网**
+## **资源站**
 
 - [优质资源](http://1080zyk.com/)
 [闪电资源](http://shandianzy.com/)
@@ -160,7 +160,7 @@
 
 
 ## 鸣谢
-- 由 [SSSYYY](https://sssyyy.montaigne.io) 提供技术服务！
+- 由 [IXIC](https://ixic.montaigne.io) 提供基础服务！
 - 由 [GOOGLE](https://google.com/) 提供搜索服务！
 
 
