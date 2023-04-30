@@ -1,7 +1,7 @@
 # IXIC小站
 
-- [**IXIC友站**](https://ixic.montaigne.io)
-
+- [**IXIC友站**](https://ixic.montaigne.io) 资源分享站点（收藏夹）。
+> - [**AList**](https://alist.ixic.eu.org/) 
 - [**资源站**](#资源站) 建议保存本页为书签，方便使用。
 
 # **影视站**
