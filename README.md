@@ -67,13 +67,13 @@
 [大米星球](https://www.dmxq.fun/)
 [剧荒TV](https://www.juhuang.tv/)
 [在线之家](https://zxzj.vip/)
-[独播库](https://www.duboku.tv/)
 
 - [哔嘀影视](https://www.bdys01.com/)
 [LIBVIO在线](https://www.libvio.me/)
 [饭团HD](https://www.fantuanhd.com/)
 [片库](https://www.btnull.nu/)
-- [大师兄影视](https://dsxys.pro/)
+[大师兄影视](https://dsxys.pro/)
+[独播库](https://www.duboku.tv/)
 
 ---
 
